@@ -1,0 +1,26 @@
+$visited-color: #00CED1;
+$shortest-color: #cf2541;
+$fixed-color: orange;
+$clicked-color: black;
+$initial-color: #90EE90;
+
+$header-height: 10vh;
+$content-header-height: 9vh;
+$footer-height: 10vh;
+$board-height: calc(100vh - (#{$header-height} + #{$content-header-height} + #{$footer-height}));
+
+$board-row: 16;
+$board-col: 30;
+
+$border-item-size: calc(calc(#{$board-height} / #{$board-row}) - 5px);
+
+:export {
+  visitedColor: $visited-color;
+  shortestColor: $shortest-color;
+  fixedColor: $fixed-color;
+  clickedColor: $clicked-color;
+  initialColor: $initial-color;
+  
+  boardRow: $board-row;
+  boardCol: $board-col;
+}
