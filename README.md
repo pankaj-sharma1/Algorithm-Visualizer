@@ -1,4 +1,4 @@
-# Pathfinding Visualizer
+# Algorithm Visualizer
 
 
 
@@ -14,11 +14,9 @@
 
 <br>
 
-## Technical Stack
+## Demo: 
 
-|                  UI Library                   |                   Styling                    |                    Typing                    |
-| :-------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
-| <img src="./images/react.svg" height="100px"> | <img src="./images/sass.png" height="100px"> | <img src="./images/flow.jpg" height="100px"> |
+![](images/1.jpeg)
 
 <br>
 
@@ -32,7 +30,3 @@ Then browser will open local host
 ```
 
 <br>
-
-## LICENSE
-
-[MIT]('./LICENSE.md')
