@@ -9,7 +9,7 @@
 * Dijkstra
 * Bellman-Ford
 * DFS
-* 0-1 BFS
+* BFS
 * A* with manhatten distance heuristic
 
 <br>
